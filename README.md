@@ -15,7 +15,7 @@ To run the script you need to first give it executable permissions
 sudo chmod +x multiclip.py
 ```
 
-## Run from anywhare
+## Run from anywhere
 You can run multiclip from anywhere by just adding an alias to your .bash while being on your home diretory
 ```bash
 cd ~
